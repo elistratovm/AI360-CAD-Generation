@@ -10,7 +10,8 @@
 * Открытие Jupyter Notebook
 
 # Дополнительная информация
-* Документация библиотеки: <cadquery.readthedocs.io>
-* Телеграм-канал: <t.me/+N8w8zK6Fth01YTYy>
-* Ментор: <t.me/maxksxkskxksk>
+* Документация библиотеки: [cadquery.readthedocs.io](https://cadquery.readthedocs.io)  
+* Телеграм-канал: [t.me/+N8w8zK6Fth01YTYy](https://t.me/+N8w8zK6Fth01YTYy)  
+* Ментор: [t.me/maxksxkskxksk](https://t.me/maxksxkskxksk)
+
 
