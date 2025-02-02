@@ -9,7 +9,7 @@
 * Установка ядра Jupyter для использования в указанной среде: ```python -m ipykernel install --user --name=cadquery-env --display-name "cadquery-env"```
 * Открытие Jupyter Notebook
 
-# Дополнительная информация
+## Дополнительная информация
 * Документация библиотеки: [cadquery.readthedocs.io](https://cadquery.readthedocs.io)  
 * Телеграм-канал проекта: [t.me/+N8w8zK6Fth01YTYy](https://t.me/+N8w8zK6Fth01YTYy)  
 * Ментор: [t.me/maxksxkskxksk](https://t.me/maxksxkskxksk)
