@@ -8,3 +8,5 @@
 * Установка ```requirements_cadquery.txt```: ```pip install -r requirements_cadquery.txt```
 * Установка ядра Jupyter для использования в указанной среде: ```python -m ipykernel install --user --name=cadquery-env --display-name "cadquery-env"```
 * Открытие Jupyter Notebook
+
+Документация библиотеки: cadquery.readthedocs.io
