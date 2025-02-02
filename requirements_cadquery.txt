@@ -1,0 +1,8 @@
+cadquery==2.4.0
+cadquery-massembly==1.0.0
+jupyter-cadquery==3.5.2
+jupyter-server==1.24.0
+lxml_html_clean==0.4.1
+matplotlib==3.10.0
+numpy==1.26.4
+pywin32==308
